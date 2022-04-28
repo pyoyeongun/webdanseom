@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T14:38:43.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="POSshiiwsk_h_1rMAmrS" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T14:43:30.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="DRB2hpfIY3dBzoJR_6ps" version="17.4.6" type="github">
   <diagram id="4EpchtD3IDfHmD8kFyGa" name="Page-1">
-    <mxGraphModel dx="5479" dy="2301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4558" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -964,7 +964,7 @@
             <mxPoint x="-2590.052631578947" y="455.0226315789471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8fKw8b_0YmTUgYmf6SGM-476" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="8fKw8b_0YmTUgYmf6SGM-636" target="8fKw8b_0YmTUgYmf6SGM-470">
+        <mxCell id="8fKw8b_0YmTUgYmf6SGM-476" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="8fKw8b_0YmTUgYmf6SGM-636" target="8fKw8b_0YmTUgYmf6SGM-473">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2845" y="-45" as="sourcePoint" />
           </mxGeometry>
@@ -1324,7 +1324,7 @@
           <mxGeometry x="-2740" y="582.48" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8fKw8b_0YmTUgYmf6SGM-630" value="듀티코드" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2910" y="587.51" width="70" height="30" as="geometry" />
+          <mxGeometry x="-2915" y="587.46" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8fKw8b_0YmTUgYmf6SGM-631" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="8fKw8b_0YmTUgYmf6SGM-632" target="8fKw8b_0YmTUgYmf6SGM-628">
           <mxGeometry relative="1" as="geometry">
