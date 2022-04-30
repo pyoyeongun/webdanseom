@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T16:11:15.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jyzyheAJ0cwZqslSMK2G" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-30T16:11:23.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7SWFm9iKWefBd6GoVePG" version="17.5.0" type="github">
   <diagram id="4EpchtD3IDfHmD8kFyGa" name="Page-1">
     <mxGraphModel dx="4199" dy="2112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
         <mxCell id="8fKw8b_0YmTUgYmf6SGM-635" value="월" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1355" y="640" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8fKw8b_0YmTUgYmf6SGM-636" value="&lt;span&gt;듀티&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="8fKw8b_0YmTUgYmf6SGM-636" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-1665" y="-40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8fKw8b_0YmTUgYmf6SGM-637" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="8fKw8b_0YmTUgYmf6SGM-638" target="8fKw8b_0YmTUgYmf6SGM-636" edge="1">
@@ -687,6 +687,9 @@
         </mxCell>
         <mxCell id="r-VQ4QfOmTnRewc8earS-8" value="임시근무" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-1655" y="147.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r-VQ4QfOmTnRewc8earS-9" value="듀티" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-1660" y="-35" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r-VQ4QfOmTnRewc8earS-10" value="간호사" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-1660" y="-235" width="70" height="70" as="geometry" />
