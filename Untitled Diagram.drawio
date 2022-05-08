@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T17:17:10.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Du06rvDDu5IlIEGlMCbK" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T13:17:34.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="TWijhCUpE5nhz0_Q26Wu" version="18.0.2" type="github">
   <diagram id="4EpchtD3IDfHmD8kFyGa" name="Page-1">
-    <mxGraphModel dx="4415" dy="1560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3609" dy="1096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,14 @@
             <Array as="points">
               <mxPoint x="-1415" y="745" />
               <mxPoint x="-1415" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2fFDk-FKxjFrM0BN9jH3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="8fKw8b_0YmTUgYmf6SGM-444" target="2fFDk-FKxjFrM0BN9jH3-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1235" y="765" />
+              <mxPoint x="-1235" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -828,8 +836,11 @@
         <mxCell id="ZpLJ7dDokhhiZ4Q-hTu--2" value="조회" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2030" y="520" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GhwY0VccK_oHxXQiZ5RD-1" value="이메일" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GhwY0VccK_oHxXQiZ5RD-1" value="이메일" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2106" y="625.77" width="82" height="33.47" as="geometry" />
+        </mxCell>
+        <mxCell id="2fFDk-FKxjFrM0BN9jH3-2" value="초대링크&lt;br&gt;만료일" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1195" y="780" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
